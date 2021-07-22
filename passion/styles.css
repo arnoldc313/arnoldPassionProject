@@ -1,0 +1,29 @@
+body {
+    background-color:darkgrey;
+}
+.title {
+    padding:10px;
+    margin:10px;
+    text-align:center;
+    border-style:solid;
+}
+.opening {
+    padding:10px;
+    margin:10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.favorites {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.images {
+    border-style:dotted;
+    padding:10px
+}
+.form {
+    background-color:lightgrey;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+    border-style:ridge
+}
